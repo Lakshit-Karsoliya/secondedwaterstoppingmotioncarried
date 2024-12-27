@@ -9,7 +9,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 model_path = "Qwen/Qwen2.5-Coder-1.5B"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
-model = AutoModelForCausalLM.from_pretrained(model_path,torch_dtype="auto",map_location=device)
+model = AutoModelForCausalLM.from_pretrained(model_path,torch_dtype="auto",device_map=device)
 
 
 def find_python(string):
