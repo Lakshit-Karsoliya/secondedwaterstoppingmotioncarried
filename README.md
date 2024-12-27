@@ -34,9 +34,7 @@ This POC enable LLMs to bridge the gap between theoretical reasoning and practic
 https://github.com/user-attachments/assets/e025fc36-ccb4-467b-9bb4-8cff5445aca3
 
 
-
-#### Installation and Setup Instructions (Linux)/(servers)
-
+<h3 align="center"><strong>Installation and Setup Instructions (Linux)/(servers)</strong></h3>
 
 ##### requires python 3.12
 ```bash
