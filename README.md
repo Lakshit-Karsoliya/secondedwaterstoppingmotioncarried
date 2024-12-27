@@ -56,5 +56,15 @@ python3 terminal_chat.py
 ![Demo Image](assets/DemoImage1.png)
 
 
+<hr></hr>
+
+This Proof of Concept (POC) is to showcase how an LLM can be integrated with Python code execution and self-correction to improve its output. By enabling the model to execute code, provide feedback, and adjust based on that feedback, we can create a more dynamic and interactive environment for problem-solving and code refinement.
+
+This project can be extended to support a wide range of use cases, from code generation and debugging to more advanced AI-powered applications. We encourage further exploration, experimentation, and contributions to make this tool even more powerful.
+
+
+<h5 align="center">Made with ❤️ by lakshit</h5>
+
+
 
 
